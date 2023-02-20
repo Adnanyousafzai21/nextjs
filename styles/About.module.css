@@ -1,0 +1,16 @@
+.singal{
+    top:50px;
+  
+    font-size: 18px;
+    padding: 10px;
+    box-sizing: border-box;
+    width: 100%;
+    position:relative;
+    margin: 10px 0px;
+    cursor :pointer;
+    border-left: 10px solid #ffff;  
+    background-color: #ffff;
+}
+.singal:hover{
+    border-left: 10px solid skyblue;
+}
